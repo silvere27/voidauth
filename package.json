@@ -23,7 +23,7 @@
     ]
   },
   "dependencies": {
-    "@angular-devkit/schematics": "^21.0.2",
+    "@angular-devkit/schematics": "^21.0.3",
     "@angular/material": "^21.0.2",
     "@simplewebauthn/server": "^13.2.2",
     "@zxcvbn-ts/core": "^3.0.4",
